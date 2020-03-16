@@ -1,0 +1,22 @@
+Linux:
+a.	Download the zip and extract the folder DEY_ABHIK
+b.	Open terminal and navigate to the folder DEY_ABHIK
+c.	Run the below command in the terminal to compile the file
+	g++ -o main dey_abhik.cpp
+	A file with the name “main” will be generated in the folder
+d.	Run the below command in the terminal to execute the file
+	./main
+
+Mac:
+a.	Download the zip and extract the folder DEY_ABHIK
+b.	Open terminal and navigate to the folder DEY_ABHIK
+c.	Run the below command in the terminal to compile the file
+	g++ -o main dey_abhik.cpp -std=c++11
+	A file with the name “main” will be generated in the folder
+d.	Run the below command in the terminal to execute the file
+	./main
+
+Windows:
+a.	Download the zip and extract the folder DEY_ABHIK
+b.	Open the file dey_abhik.cpp in a C++ IDE like Microsoft Visual Studio
+c.	Compile and Run the program according to IDE’s feature.
